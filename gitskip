@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>skip area </title>
+</head>
+<body>
+
+    <h1> how to skip area  </h1>
+    <p>This is my first HTML webpage.</p>
+
+    <h2>About Me</h2>
+    <p>I am learning HTML.</p>
+    <h3>i am gaurav</h3>
+
+    
+    <br><br>
+
+    <button>Click Me</button>
+    <h4>second<h4>
+
+</body>
+</html>
